@@ -1,3 +1,5 @@
+> **Security status — 2026-10-23:** this historical server has not been ported or qualified on a maintained Node.js release. Do not use the Node.js 0.8/0.10 installation instructions below for a new deployment. See [SECURITY-RUNTIME.md](SECURITY-RUNTIME.md).
+
 BrowserQuest
 ============
 
